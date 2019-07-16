@@ -1,0 +1,7 @@
+H:\Technology\Dot Net\Project\File Transfer\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+H:\Technology\Dot Net\Project\File Transfer\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe
+H:\Technology\Dot Net\Project\File Transfer\ServerApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+H:\Technology\Dot Net\Project\File Transfer\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csprojAssemblyReference.cache
+H:\Technology\Dot Net\Project\File Transfer\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+H:\Technology\Dot Net\Project\File Transfer\ServerApplication\ServerApplication\obj\Debug\ServerApplication.exe
+H:\Technology\Dot Net\Project\File Transfer\ServerApplication\ServerApplication\obj\Debug\ServerApplication.pdb

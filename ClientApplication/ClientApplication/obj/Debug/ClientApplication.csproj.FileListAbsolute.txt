@@ -1,0 +1,17 @@
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csprojAssemblyReference.cache
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\LoginScreen.g.cs
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\MainWindow.g.cs
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\App.g.cs
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication_MarkupCompile.cache
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication_MarkupCompile.lref
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\LoginScreen.baml
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\MainWindow.baml
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication.g.resources
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
+H:\Technology\Dot Net\Project\File Transfer\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
